@@ -231,4 +231,10 @@ public class TestLogInfo {
 	 public static void main(String[] args){
 		t2.start();
 	 }
+
+
+
+Hello ajay 
+
+
 }
